@@ -23,9 +23,4 @@ public class Move {
         accuracy = 0;
         PP = 0;
     }
-
-    public Move getnoMove() {
-        return noMove;
-    }
-    Move noMove = new Move();
 }
